@@ -1,0 +1,2 @@
+# RewardsAutomator
+Microsoft rewards Automator
